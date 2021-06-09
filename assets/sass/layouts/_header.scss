@@ -2,7 +2,9 @@
  * Site Header
  */
 .site-header {
-	border-bottom: 1px solid $color-header-border;
+	position: fixed;
+    top: 0;
+    
 }
 
 .navbar__logo,
