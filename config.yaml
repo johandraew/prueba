@@ -35,7 +35,7 @@ params:
       - label: Get Started
         url: /pricing
         style: primary
-    has_anncmnt: true
+    has_anncmnt: false
     anncmnt_content: >-
       Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
       More](/pricing/)**
