@@ -5,7 +5,7 @@ params:
   style: classic
   palette: green
   mode: light
-  base_font: serif
+  base_font: sans-serif
   header:
     title: DIY
     logo: images/1623269811994.png
