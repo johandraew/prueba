@@ -313,6 +313,26 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - type: form_section
+    title: Inline Form
+    title_align: center
+    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content_align: center
+    form_position: bottom
+    form_layout: inline
+    form_id: subscribeForm
+    form_action: /thank-you
+    form_fields:
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+    submit_label: Subscribe
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
