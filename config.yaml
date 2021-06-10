@@ -92,8 +92,8 @@ params:
         icon: github
         icon_position: center
         new_window: true
-      - label: LinkedIn
-        url: ''
+      - label: Twitter
+        url: 'https://twitter.com/'
         style: link
         has_icon: true
         icon: twitter
