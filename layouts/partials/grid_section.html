@@ -25,6 +25,9 @@
 		{{ if $section.title }}
 		<h2 class="section__title mt-0">{{ $section.title }}</h2>
 		{{ end }}
+    {{ if $section.subtitle }}
+		<div class="section__subtitle">{{ $section.subtitle }}</div>
+		{{ end }}
 	</div>
 	{{ end }}
 
