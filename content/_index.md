@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hidalgo Fútbol Club
-    subtitle: 
+    subtitle: null
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
@@ -27,7 +27,7 @@ sections:
     subtitle: Oficiales
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/ejemplo.png
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
