@@ -100,7 +100,7 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      &copy; Hidalgo Fútbol Club. <br>
+      Hidalgo Fútbol Club. <br>
       Atitalaquia, Hidalgo, México.
   domain: 'https://prueba-1507a.netlify.app'
 taxonomies:
