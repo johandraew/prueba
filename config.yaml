@@ -78,7 +78,7 @@ params:
         style: link
     has_social: true
     social_links:
-      - label: Twitter
+      - label: FAcebook
         url: 'https://facebook.com/HidalgoFutbolClub'
         style: link
         has_icon: true
