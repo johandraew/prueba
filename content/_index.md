@@ -299,9 +299,9 @@ sections:
     has_border: false
     background_color: none
   - type: form_section
-    title: Inline Form
+    title: Subscribe to our newsletter to make sure you don't miss anything.
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: 
     content_align: center
     form_position: bottom
     form_layout: inline
