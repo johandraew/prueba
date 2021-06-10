@@ -59,7 +59,7 @@
 				{{ if $footer_content }}
 				<div class="site-footer__copyright cell-12{{ if $footer_social }} cell-sm{{ end }}">
 					{{ if $.Site.Params.footer.content }}
-						<span>&copy; {{ $.Site.Params.footer.content | safeHTML }}</span>
+						<span>&copy; {{ now.Format "2006" }} {{ $.Site.Params.footer.content | safeHTML }}</span>
 					{{ end }}
 					{{ range $link := $.Site.Params.footer.links }}
 						<a href="{{ $link.url | relURL }}"
