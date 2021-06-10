@@ -329,8 +329,8 @@ sections:
         default_value: Your email address
         is_required: true
     submit_label: Subscribe
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: none
+    padding_bottom: none
     has_border: true
     background_color: none
 seo:
