@@ -93,7 +93,7 @@ params:
         icon_position: center
         new_window: true
       - label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/HidalgoFC2'
         style: link
         has_icon: true
         icon: twitter
