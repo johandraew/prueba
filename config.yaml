@@ -3,7 +3,7 @@ baseURL: /
 params:
   layout_type: full-width
   style: classic
-  palette: green
+  palette: gray
   mode: light
   base_font: sans-serif
   header:
