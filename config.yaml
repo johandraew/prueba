@@ -79,7 +79,7 @@ params:
     has_social: true
     social_links:
       - label: Twitter
-        url: 'https://facebook.com/'
+        url: 'https://facebook.com/HidalgoFutbolClub'
         style: link
         has_icon: true
         icon: twitter
