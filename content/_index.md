@@ -31,7 +31,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
       - image: images/example.png
-        image_alt: Netlify logo
+        image_alt: Patrocinaor 2
         image_align: center
       - image: images/example.png
         image_alt: Patrocinaor 3
