@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/transparent.webp
     image_alt: transparent
     media_position: left
     media_width: fifty
