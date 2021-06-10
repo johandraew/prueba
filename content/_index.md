@@ -311,7 +311,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Escribe tu correo electronico
+        default_value: Escribe tu correo electrónico
         is_required: true
     submit_label: Subscribe
     padding_top: small
