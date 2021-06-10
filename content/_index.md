@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Hidalgo Fútbol Club
     subtitle: null
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Una pequeña explicación acerca del proyecto, o una breve historia iría
+      aquí.
     actions:
       - label: Try Free
         url: /pricing
