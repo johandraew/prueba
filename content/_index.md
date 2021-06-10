@@ -14,12 +14,14 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
+    image: images/classic/hero.png
+    image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
-    background_image: images/3213298.jpg
+    background_color: primary
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
