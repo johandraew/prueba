@@ -8,10 +8,10 @@ sections:
       Una pequeña explicación acerca del proyecto, o una breve historia iría
       aquí.
     actions:
-      - label: Try Free
+      - label: Equipo
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Acerca de
         url: /features
         style: secondary
     image: images/transparent.webp
