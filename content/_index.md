@@ -37,7 +37,7 @@ sections:
         image_alt: Gatsby logo
         image_align: center
       - image: images/example.png
-        image_alt: Sanity logo
+        image_alt: Patrocinaor 4
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
