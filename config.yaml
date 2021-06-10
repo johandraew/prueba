@@ -100,11 +100,8 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+      &copy; Hidalgo Fútbol Club. <br>
+      Atitalaquia, Hidalgo, México.
   domain: 'https://prueba-1507a.netlify.app'
 taxonomies:
   stub: stub
