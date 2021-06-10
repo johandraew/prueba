@@ -21,7 +21,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: images/3213298.jpg
+    background: images/3213298.jpg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
