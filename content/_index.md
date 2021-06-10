@@ -34,7 +34,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
       - image: images/example.png
-        image_alt: Gatsby logo
+        image_alt: Patrocinaor 3
         image_align: center
       - image: images/example.png
         image_alt: Patrocinaor 4
