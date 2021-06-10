@@ -22,9 +22,6 @@
 
 	{{ if or $section.title $section.subtitle }}
 	<div class="container container--medium{{ if or (eq $grid_gap_y "small") (eq $grid_gap_y "medium") }} mb-5{{ end }}{{ if eq $grid_gap_y "large" }} mb-4{{ end }}{{ if eq $align_x "center" }} text-center{{ end }}{{ if eq $align_x "right" }} text-right{{ end }}">
-		{{ if $section.subtitle }}
-		<div class="section__subtitle">{{ $section.subtitle }}</div>
-		{{ end }}
 		{{ if $section.title }}
 		<h2 class="section__title mt-0">{{ $section.title }}</h2>
 		{{ end }}
