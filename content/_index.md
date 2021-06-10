@@ -27,7 +27,7 @@ sections:
     subtitle: Oficiales
     align: center
     grid_items:
-      - image: images/ejemplo.png
+      - image: images/example.png
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
