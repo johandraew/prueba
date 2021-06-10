@@ -49,7 +49,7 @@ params:
     has_primary_nav: true
     primary_nav_title: Nosotros
     primary_nav_links:
-      - label: About
+      - label: Directiva
         url: /about
         style: link
       - label: Style Guide
