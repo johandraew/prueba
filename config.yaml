@@ -44,7 +44,7 @@ params:
     anncmnt_has_close: true
     anncmnt_id: new-features
   footer:
-    logo: images/classic/logo.svg
+    logo: images/1623269811994.png
     logo_alt: DIY logo
     has_primary_nav: true
     primary_nav_title: Company
