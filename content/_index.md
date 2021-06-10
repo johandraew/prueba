@@ -299,7 +299,7 @@ sections:
     has_border: false
     background_color: none
   - type: form_section
-    title: Subscribe to our newsletter to make sure you don't miss anything.
+    title: Subscribete a nuestro boletin informativo.
     title_align: center
     content: 
     content_align: center
