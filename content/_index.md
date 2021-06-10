@@ -39,12 +39,6 @@ sections:
       - image: images/example.png
         image_alt: Sanity logo
         image_align: center
-      - image: images/example.png
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/example.png
-        image_alt: Next.js logo
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
