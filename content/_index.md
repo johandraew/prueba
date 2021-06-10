@@ -23,8 +23,8 @@ sections:
     padding_bottom: large
     background_image: images/3213298.jpg
   - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
+    title: Patrocinadores
+    subtitle: Oficiales
     align: center
     grid_items:
       - image: images/logo-1.svg
