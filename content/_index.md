@@ -23,8 +23,8 @@ sections:
     padding_bottom: large
     background_image: images/3213298.jpg
   - type: grid_section
-    title: Patrocinadores
-    subtitle: Oficiales
+    title: Patrocinadores Oficiales
+    subtitle: 
     align: center
     grid_items:
       - image: images/example.png
