@@ -299,7 +299,7 @@ sections:
     has_border: false
     background_color: none
   - type: form_section
-    title: Subscríbete a nuestro boletin informativo.
+    title: Subscríbete a nuestro boletín informativo.
     title_align: center
     content: 
     content_align: center
