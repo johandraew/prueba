@@ -28,7 +28,7 @@ sections:
     align: center
     grid_items:
       - image: images/example.png
-        image_alt: Contentful logo
+        image_alt: Patrocinaor 1
         image_align: center
       - image: images/example.png
         image_alt: Patrocinaor 2
