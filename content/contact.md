@@ -7,7 +7,7 @@ sections:
       Have a question? Send us a note using the form below and we will be in
       touch soon.
     align: center
-    padding_top: small
+    padding_top: large
     padding_bottom: small
     has_border: true
     background_color: none
