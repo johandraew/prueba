@@ -47,7 +47,7 @@ sections:
           * Litora primis facilisis ullamcorper per
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Comprar
             url: /features
             style: primary
         actions_align: left
