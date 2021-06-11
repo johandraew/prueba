@@ -70,7 +70,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /
+            url: /info
             style: link
             has_icon: true
             icon: arrow-right
