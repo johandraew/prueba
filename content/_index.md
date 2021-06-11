@@ -8,7 +8,7 @@ sections:
       Aquí una pequeña explicación acerca del proyecto, o una breve historia.
     actions:
       - label: Equipo
-        url: /pricing
+        url: /
         style: primary
       - label: Acerca de
         url: /acerca
