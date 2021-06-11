@@ -173,7 +173,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Hidalgo Fútbol Club
       keyName: property
     - name: 'og:description'
       value: The preview of the DIY theme
