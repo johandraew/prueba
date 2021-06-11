@@ -1,6 +1,5 @@
 ---
 title:  ---
-padding_top: large
 seo:
   title: Información
   description: This is the terms and conditions page
