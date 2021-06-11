@@ -49,7 +49,7 @@ Dominios web .com .com.mx y .mx
 
 Nuestra base de datos está en la blockchain, permitiendo emitir constancias, certificados o contratos seguros y difíciles de falsificar.
 
-Cada jugador y directivo contará con un correo electronico personal sin ningún costo de hasta 10 GB de almacenamiento.
+Cada jugador y directivo contará con un correo electronico personal sin ningún costo, de hasta 10 GB de almacenamiento.
 
 Los registros de información son ilimitados hasta 1TB de información, sin límite de lectura o escritura.
 
