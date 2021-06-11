@@ -101,9 +101,9 @@ sections:
     background_color: none
   - type: cta_section
     title: 
-    content: Uneté
+    content: Uneté al club
     actions:
-      - label: Contacto
+      - label: Comprar
         url: /pricing
         style: primary
     align: center
