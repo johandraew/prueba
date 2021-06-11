@@ -21,7 +21,7 @@ params:
       - label: Noticias
         url: /blog
         style: link
-      - label: Style Guide
+      - label: Partidos
         url: /style-guide
         style: link
     has_secondary_nav: true
