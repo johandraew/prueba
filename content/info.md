@@ -36,7 +36,7 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 
 Dominios web .com .com.mx y .mx
 
-**Certificado SSL completamente gratuito**, y asistencia personal 24/7 los 365 días del año, además de actualizaciones y mejoras en el servicio con descuento o sin costo adicional.
+**Certificado SSL completamente gratuito**, y asistencia personal 24/7 los 365 días del año, además de actualizaciones y mejoras en el servicio sin costo adicional.
 
 **Correos electronicos corporativos** completamente gratuitos.
 
