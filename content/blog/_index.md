@@ -32,13 +32,13 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: prueba@gmail.com
         is_required: true
-    submit_label: Subscribe
+    submit_label: Subcribirse
     padding_top: medium
     padding_bottom: medium
     has_border: true
-    background_color: secondary
+    background_color: none
 seo:
   title: Blog
   description: This is the blog page
