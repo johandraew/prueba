@@ -52,7 +52,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: Familiar
         subtitle: Subtitulo opcional
         title_align: left
         content: |-
