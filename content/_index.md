@@ -10,7 +10,7 @@ sections:
       - label: Equipo
         url: /
         style: primary
-      - label: Acerca de
+      - label: Información
         url: /acerca
         style: secondary
     image: images/transparent.webp
