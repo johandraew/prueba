@@ -25,7 +25,7 @@ params:
         url: /
         style: link
       - label: Club
-        url: /style-guide
+        url: /
         style: link
     has_secondary_nav: true
     secondary_nav_links:
