@@ -34,7 +34,7 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 
 ## Base de datos
 
-Nuestra base de datos está alojada en la blockchain, permitiendo 
+Nuestra base de datos está alojada en la blockchain, permitiendo emitir constancias, certificados o contratos seguros, además de crear un perfil para cada jugador
 
 Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo. Phasellus finibus risus eget est cursus finibus.
 
