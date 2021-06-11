@@ -43,12 +43,13 @@ sections:
     grid_gap_vert: medium
   - type: grid_section
     title: ¿Qué contiene el servicio?
-    subtitle: 
+    subtitle: null
     grid_items:
       - title: Página web
         title_align: left
         content: >-
-          Una página web rápida con protección ante hackeos, y diseños personalizados y reponsivos.
+          Una página web rápida con protección ante hackeos, y diseños
+          personalizados y reponsivos.
         content_align: left
         actions:
           - label: Learn More
@@ -66,7 +67,8 @@ sections:
       - title: Base de datos
         title_align: left
         content: >-
-          Base de datos en la blockchain para administrar y monitorear a sus jugadores, además de registros sin límite de informacíon.
+          Base de datos en la blockchain para administrar y monitorear a sus
+          jugadores, además de registros sin límite de informacíon.
         content_align: left
         actions:
           - label: Learn More
@@ -84,7 +86,9 @@ sections:
       - title: Asistencia 24/7
         title_align: left
         content: >-
-          Estamos con ustedes en todo momento, solucionamos cualquier problematica requerida, optimizamos, actualizamos y mejoramos los servicios con descuento o sin costo adicional.
+          Estamos con ustedes en todo momento, solucionamos cualquier
+          problematica requerida, optimizamos, actualizamos y mejoramos los
+          servicios con descuento o sin costo adicional.
         content_align: left
         actions:
           - label: Learn More
@@ -162,7 +166,7 @@ sections:
     has_border: true
     background_color: none
 seo:
-  title: Stackbit DIY Theme
+  title: Hidalgo Fútbol Club
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
