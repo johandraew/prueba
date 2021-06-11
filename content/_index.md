@@ -176,7 +176,7 @@ seo:
       value: Hidalgo Fútbol Club
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Hidalgo FC página de prueba.
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
