@@ -38,7 +38,7 @@ sections:
 
           ### $400 MXN
 
-          per month, billed yearly
+          Ejemplos.
 
           * Et semper leo mattis orci conubia congue
           * Quisque eleifend imperdiet tortor
