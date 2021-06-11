@@ -66,7 +66,7 @@ sections:
       - title: Base de datos
         title_align: left
         content: >-
-          Base de datos en la blockchain para administrar a sus jugadores, además de registros sin límite de informacíon.
+          Base de datos en la blockchain para administrar y monitorear a sus jugadores, además de registros sin límite de informacíon.
         content_align: left
         actions:
           - label: Learn More
