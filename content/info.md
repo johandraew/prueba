@@ -47,7 +47,9 @@ Dominios web .com .com.mx y .mx
 
 ## Base de datos
 
-Nuestra base de datos está en la blockchain, permitiendo emitir constancias, certificados o contratos seguros y difíciles de falsificar, además cada jugador y directivo contará con un correo electronico sin ningún costo.
+Nuestra base de datos está en la blockchain, permitiendo emitir constancias, certificados o contratos seguros y difíciles de falsificar.
+
+Cada jugador y directivo contará con un correo electronico sin ningún costo.
 
 Los registros de información son ilimitados hasta 1TB de información, sin limite de lectura o escritura.
 
