@@ -35,3 +35,4 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 ## Base de datos
 
 Nuestra base de datos está alojada en la blockchain, permitiendo emitir constancias, certificados o contratos seguros, además cada jugador y directivo contará con un correo electronico sin ningún costo.
+
