@@ -167,7 +167,7 @@ sections:
     background_color: none
 seo:
   title: Hidalgo Fútbol Club
-  description: The preview of the DIY theme
+  description: 'Hidalgo FC, página oficial.'
   extra:
     - name: 'og:type'
       value: website
