@@ -23,6 +23,10 @@ seo:
       value: images/PicsArt_06-10-09.26.43.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/PicsArt_06-10-09.26.43.jpg
+      keyName: property
+      relativeUrl: true
 layout: page
 ---
 
