@@ -11,7 +11,7 @@ seo:
       value: Hidalgo Fúbol Club preview
       keyName: property
     - name: 'og:description'
-      value: This is the terms and conditions page
+      value: Página de prueba.
       keyName: property
     - name: 'twitter:card'
       value: summary
