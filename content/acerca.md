@@ -101,7 +101,7 @@ sections:
     background_color: none
   - type: cta_section
     title: 
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: Pónte en contacto con nosotros
     actions:
       - label: Compare Plans
         url: /pricing
