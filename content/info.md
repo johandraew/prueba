@@ -1,5 +1,5 @@
 ---
-title:  _
+title: _
 seo:
   title: Información
   description: This is the terms and conditions page
@@ -19,6 +19,10 @@ seo:
       value: Terms and Conditions
     - name: 'twitter:description'
       value: This is the terms and conditions page
+    - name: 'og:image'
+      value: /_static/app-assets/PicsArt_06-10-09.26.43.jpg
+      keyName: property
+      relativeUrl: true
 layout: page
 ---
 
