@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Premium
-        subtitle: Optional subtitle
+        subtitle: Subtitulo opcional
         title_align: left
         content: |-
           ---
