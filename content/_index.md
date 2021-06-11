@@ -137,7 +137,7 @@ sections:
       fringilla, fringilla.
     actions:
       - label: Learn More
-        url: /features
+        url: /
         style: secondary
     actions_position: right
     actions_width: fourty
