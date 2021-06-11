@@ -38,4 +38,5 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 
 Nuestra base de datos está alojada en la blockchain, permitiendo emitir constancias, certificados o contratos seguros, además cada jugador y directivo contará con un correo electronico sin ningún costo.
 
-Los registros de información son ilimitados hasta 1TB de información y sin limite de entradas.
+Los registros de información son ilimitados hasta 1TB de información y sin limite de escritura y lectura.
+
