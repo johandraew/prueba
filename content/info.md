@@ -40,7 +40,7 @@ Nuestra base de datos está en la blockchain, permitiendo emitir constancias, ce
 
 Los registros de información son ilimitados hasta 1TB de información y sin limite de escritura o lectura.
 
-En este apartado se optimizaría el trabajo administrativo hasta 90%.
+*En este apartado se optimizaría el trabajo administrativo hasta 90%.
 
 ## Atención 24/7
 
