@@ -32,7 +32,7 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 
 **Hosting sin límite** y **Ancho de banda ilimitado** sin problema de cargas o saturación que originen _caídas_. 
 
-**Poscicionamiento
+**SEO** posicionamiento web 
 
 ## Base de datos
 
