@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Subscripción 
+    title: Subscripción al club 
     subtitle: 
     align: center
     padding_top: large
