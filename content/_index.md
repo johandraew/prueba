@@ -11,7 +11,7 @@ sections:
         url: /pricing
         style: primary
       - label: Acerca de
-        url: /features
+        url: /acerca
         style: secondary
     image: images/transparent.webp
     image_alt: transparent
