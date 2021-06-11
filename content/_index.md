@@ -179,7 +179,7 @@ seo:
       value: Hidalgo FC página de prueba.
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /_static/app-assets/PicsArt_06-10-09.26.43.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
