@@ -187,7 +187,7 @@ seo:
     - name: 'twitter:title'
       value: Hidalgo Fútbol Club
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Hidalgo FC página de prueba.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
