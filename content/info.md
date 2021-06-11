@@ -34,6 +34,8 @@ layout: page
 
 Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de hackers, con una latencia baja entre el servidor.
 
+Dominios web
+
 **Certificado SSL completamente gratuito**, y asistencia personal 24/7 los 365 días del año, además de actualizaciones y mejoras en el servicio con descuento o sin costo adicional.
 
 **Correos electronicos corporativos** completamente gratuitos.
