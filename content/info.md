@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Hidalgo Fútbol Club preview
     - name: 'twitter:description'
-      value: This is the terms and conditions page
+      value: Página de prueba.
     - name: 'og:image'
       value: images/PicsArt_06-10-09.26.43.jpg
       keyName: property
