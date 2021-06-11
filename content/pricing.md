@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Individual
-        subtitle: Optional subtitle
+        subtitle: Subtitulo opcional
         title_align: left
         content: |-
           ---
