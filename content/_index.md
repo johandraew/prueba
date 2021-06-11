@@ -84,7 +84,7 @@ sections:
       - title: Asistencia 24/7
         title_align: left
         content: >-
-          Estamos con ustedes en todo momento, solucionamos cualquier problematica requerida, optimizamos y mejoramos los servicios sin costo adicional.
+          Estamos con ustedes en todo momento, solucionamos cualquier problematica requerida, optimizamos y mejoramos los servicios con descuento o sin costo adicional.
         content_align: left
         actions:
           - label: Learn More
