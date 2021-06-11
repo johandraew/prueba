@@ -22,6 +22,26 @@ sections:
     padding_bottom: large
     background_image: images/3213298.jpg
   - type: grid_section
+    title: Patrocinadores Oficiales
+    subtitle: null
+    align: center
+    grid_items:
+      - image: images/example.png
+        image_alt: Patrocinaor 1
+        image_align: center
+      - image: images/example.png
+        image_alt: Patrocinaor 2
+        image_align: center
+      - image: images/example.png
+        image_alt: Patrocinaor 3
+        image_align: center
+      - image: images/example.png
+        image_alt: Patrocinaor 4
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+  - type: grid_section
     title: ¿Qué contiene el servicio?
     subtitle: 
     grid_items:
@@ -88,26 +108,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-- type: grid_section
-    title: Patrocinadores Oficiales
-    subtitle: null
-    align: center
-    grid_items:
-      - image: images/example.png
-        image_alt: Patrocinaor 1
-        image_align: center
-      - image: images/example.png
-        image_alt: Patrocinaor 2
-        image_align: center
-      - image: images/example.png
-        image_alt: Patrocinaor 3
-        image_align: center
-      - image: images/example.png
-        image_alt: Patrocinaor 4
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
+    background_color: none
   - type: blog_feed_section
     title: Ultimas Noticias
     actions:
