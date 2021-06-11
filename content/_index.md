@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Hidalgo Fútbol Club
     subtitle: null
-    content: >
-      Una pequeña explicación acerca del proyecto, o una breve historia iría
-      aquí.
+    content: |
+      Aquí una pequeña explicación acerca del proyecto, o una breve historia.
     actions:
       - label: Equipo
         url: /pricing
@@ -24,7 +23,7 @@ sections:
     background_image: images/3213298.jpg
   - type: grid_section
     title: Patrocinadores Oficiales
-    subtitle: 
+    subtitle: null
     align: center
     grid_items:
       - image: images/example.png
@@ -301,7 +300,7 @@ sections:
   - type: form_section
     title: Subscríbete a nuestro boletín informativo.
     title_align: center
-    content: 
+    content: null
     content_align: center
     form_position: bottom
     form_layout: inline
