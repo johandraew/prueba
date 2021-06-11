@@ -101,7 +101,7 @@ sections:
     background_color: none
   - type: cta_section
     title: 
-    content: Pónte en contacto con nosotros
+    content: Uneté
     actions:
       - label: Contacto
         url: /pricing
