@@ -48,9 +48,7 @@ sections:
       - title: Página web
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Una página web rápida con protección ante hackeos, y diseños personalizados y reponsivos.
         content_align: left
         actions:
           - label: Learn More
