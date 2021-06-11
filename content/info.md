@@ -2,7 +2,7 @@
 title: _
 seo:
   title: Hidalgo Fútbol Club
-  description: This is the terms and conditions page
+  description: Vista previa
   extra:
     - name: 'og:type'
       value: website
