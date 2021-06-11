@@ -8,10 +8,10 @@ sections:
       Aquí una pequeña explicación acerca del proyecto, o una breve historia.
     actions:
       - label: Equipo
-        url: /
+        url: /acerca
         style: primary
       - label: Información
-        url: /acerca
+        url: /info
         style: secondary
     image: images/transparent.webp
     image_alt: transparent
