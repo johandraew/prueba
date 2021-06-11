@@ -24,7 +24,7 @@ layout: page
 
 ## Contenido del servicio
 
-Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de hackers, con una latencia baja entre el servidor y el usuario.
+Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de hackers, con una latencia baja entre el servidor.
 
 **Certificado SSL completamente gratuito**, y asistencia personal 24/7 los 365 días del año, además de actualizaciones y mejoras en el servicio con descuento o sin costo adicional.
 
