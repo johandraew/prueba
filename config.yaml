@@ -50,10 +50,10 @@ params:
     primary_nav_title: Nosotros
     primary_nav_links:
       - label: Directiva
-        url: /about
+        url: /
         style: link
       - label: Contacto
-        url: /contacto
+        url: /
         style: link
     has_secondary_nav: true
     secondary_nav_title: Boletín
