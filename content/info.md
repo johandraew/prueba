@@ -34,7 +34,7 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 
 **SEO** posicionamiento web en google y wikis.
 
-
+Manejo de contenido
 
 ## Base de datos
 
