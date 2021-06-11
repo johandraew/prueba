@@ -1,5 +1,5 @@
 ---
-title: .
+title:   
 padding_top: large
 seo:
   title: Información
