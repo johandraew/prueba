@@ -16,7 +16,7 @@ params:
         url: /
         style: link
       - label: Directiva
-        url: /about
+        url: /acerca
         style: link
       - label: Noticias
         url: /blog
