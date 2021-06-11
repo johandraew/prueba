@@ -279,7 +279,7 @@ sections:
   - type: blog_feed_section
     title: Ultimas Noticias
     actions:
-      - label: View All
+      - label: Ver todo
         url: /blog
         style: primary
     blog_feed_cols: three
