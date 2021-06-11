@@ -69,4 +69,4 @@ La atención es personalizada e inmediata, todos los días del año y sin import
 
 _Estos son algunos de los servicios que cubrimos, sin embargo podemos agregar muchos más de acuerdo a su presupuesto, si desean contratar nuestros servicios podemos agendar una cita para conversar los precios y personalizar adecuadamente el plan y la estrategia de impletención del servicio._
 
-Creemos en ustedes y este extraordinario proyecto y estaremos contentos poder colaborar juntos y poner en alto el nombre de Atitalaquia.
+Creemos en ustedes y en este extraordinario proyecto y estaremos contentos poder colaborar juntos y poner en alto el nombre de Atitalaquia.
