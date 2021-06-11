@@ -29,8 +29,7 @@ params:
         style: link
     has_secondary_nav: true
     secondary_nav_links:
-      - label: Contacto
-        url: /contacto
+      - url: /contacto
         style: link
       - label: Tienda
         url: /pricing
