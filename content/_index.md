@@ -88,7 +88,6 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: none
 - type: grid_section
     title: Patrocinadores Oficiales
     subtitle: null
