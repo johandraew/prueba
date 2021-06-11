@@ -18,7 +18,7 @@ params:
       - label: Directiva
         url: /about
         style: link
-      - label: Blog
+      - label: Noticias
         url: /blog
         style: link
       - label: Style Guide
