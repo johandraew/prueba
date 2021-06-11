@@ -34,6 +34,8 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 
 **SEO** posicionamiento web en google y wikis.
 
+
+
 ## Base de datos
 
 Nuestra base de datos está en la blockchain, permitiendo emitir constancias, certificados o contratos seguros y dificiles de falsificar, además cada jugador y directivo contará con un correo electronico sin ningún costo.
