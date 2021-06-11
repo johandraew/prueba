@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Subscribete a nuestro boletín informativo
+    title: Subscríbete a nuestro boletín informativo
     title_align: center
     content: 
     content_align: center
