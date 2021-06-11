@@ -66,11 +66,11 @@ sections:
       - title: Base de datos
         title_align: left
         content: >-
-          Base de datos en la blockchain para administrar a sus jugadores, además de registros sin límite de entradas
+          Base de datos en la blockchain para administrar a sus jugadores, además de registros sin límite de informacíon
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /
             style: link
             has_icon: true
             icon: arrow-right
