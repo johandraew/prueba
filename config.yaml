@@ -64,7 +64,7 @@ params:
       - label: Comunicados
         url: /blog/category/general
         style: link
-      - label: Tutorials
+      - label: Historias
         url: /blog/category/tutorials
         style: link
     has_tertiary_nav: true
