@@ -103,7 +103,7 @@ sections:
     title: 
     content: Pónte en contacto con nosotros
     actions:
-      - label: Compare Plans
+      - label: Contacto
         url: /pricing
         style: primary
     align: center
