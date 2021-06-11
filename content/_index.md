@@ -84,9 +84,7 @@ sections:
       - title: Asistencia 24/7
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Estamos con ustedes en todo momento, 
         content_align: left
         actions:
           - label: Learn More
