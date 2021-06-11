@@ -1,5 +1,6 @@
 ---
 title: Terms & Conditions
+padding_top: large
 seo:
   title: Terms and Conditions
   description: This is the terms and conditions page
