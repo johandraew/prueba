@@ -2,8 +2,8 @@
 title: Acerca de nosotros
 sections:
   - type: hero_section
-    title: About
-    subtitle: About Page Demo
+    title: Acerca de nosotros
+    subtitle: 
     align: center
     background_color: secondary
   - type: features_section
