@@ -15,7 +15,7 @@ params:
       - label: Jugadores
         url: /features
         style: link
-      - label: About
+      - label: Directiva
         url: /about
         style: link
       - label: Blog
