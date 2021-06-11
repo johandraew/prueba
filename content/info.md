@@ -46,4 +46,4 @@ La atención es personalizada e inmediata, en caso de requerir una nueva soluci�
 
 ## Servicios adicionales*
 
-**Tienda en línea**, puede ser alojada en la misma página web, sin costo alguno. Ofrecemos pagos en oxxo con costo adcional.
+**Tienda en línea**, puede ser alojada en la misma página web, sin costo alguno. Sin embargo ofrecemos pagos en oxxo con costo adcional.
