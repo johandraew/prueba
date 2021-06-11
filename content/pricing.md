@@ -69,7 +69,7 @@ sections:
           * Feugiat porta tortor
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Comprar
             url: /features
             style: primary
         actions_align: left
