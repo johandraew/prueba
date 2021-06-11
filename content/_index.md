@@ -189,7 +189,7 @@ seo:
     - name: 'twitter:description'
       value: Hidalgo FC página de prueba.
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/PicsArt_06-10-09.26.43.jpg
       relativeUrl: true
 layout: advanced
 ---
