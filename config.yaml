@@ -13,7 +13,7 @@ params:
     has_primary_nav: true
     primary_nav_links:
       - label: Jugadores
-        url: /features
+        url: /
         style: link
       - label: Directiva
         url: /about
@@ -99,9 +99,7 @@ params:
         icon: twitter
         icon_position: center
         new_window: true
-    content: >-
-      Hidalgo Fútbol Club. <br>
-      Atitalaquia, Hidalgo, México.
+    content: 'Hidalgo Fútbol Club. <br> Atitalaquia, Hidalgo, México.'
   domain: 'https://prueba-1507a.netlify.app'
 taxonomies:
   stub: stub
