@@ -24,6 +24,9 @@ params:
       - label: Partidos
         url: /style-guide
         style: link
+      - label: Partidos
+        url: /style-guide
+        style: link
     has_secondary_nav: true
     secondary_nav_links:
       - label: Contacto
