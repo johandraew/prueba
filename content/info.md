@@ -1,5 +1,5 @@
 ---
-title:  -
+title:  _
 seo:
   title: Información
   description: This is the terms and conditions page
