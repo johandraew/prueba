@@ -25,8 +25,8 @@ sections:
           * Nisi cubilia interdum ultricies
         content_align: left
         actions:
-          - label: Start with Personal
-            url: /features
+          - label: Comprar
+            url: /
             style: primary
         actions_align: left
         actions_width: full-width
@@ -48,7 +48,7 @@ sections:
         content_align: left
         actions:
           - label: Comprar
-            url: /features
+            url: /
             style: primary
         actions_align: left
         actions_width: full-width
@@ -70,7 +70,7 @@ sections:
         content_align: left
         actions:
           - label: Comprar
-            url: /features
+            url: /
             style: primary
         actions_align: left
         actions_width: full-width
