@@ -51,7 +51,7 @@ Nuestra base de datos está en la blockchain, permitiendo emitir constancias, ce
 
 Cada jugador y directivo contará con un correo electronico personal sin ningún costo de hasta 10 GB de almacenamiento.
 
-Los registros de información son ilimitados hasta 1TB de información, sin limite de lectura o escritura.
+Los registros de información son ilimitados hasta 1TB de información, sin límite de lectura o escritura.
 
 *En este apartado se optimizaría el trabajo administrativo hasta un 90%.
 
