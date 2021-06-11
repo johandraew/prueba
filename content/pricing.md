@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Nuestras nuevas playeras
+    title: Subscripción 
     subtitle: 
     align: center
     padding_top: large
