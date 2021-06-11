@@ -277,7 +277,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Ultimas Noticias
     actions:
       - label: View All
         url: /blog
