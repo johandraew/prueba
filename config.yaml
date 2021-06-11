@@ -56,12 +56,12 @@ params:
         url: /contacto
         style: link
     has_secondary_nav: true
-    secondary_nav_title: Blog
+    secondary_nav_title: Boletín
     secondary_nav_links:
-      - label: News
+      - label: Noticias
         url: /blog/category/news
         style: link
-      - label: General
+      - label: Comunicados
         url: /blog/category/general
         style: link
       - label: Tutorials
