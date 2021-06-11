@@ -67,4 +67,4 @@ La atención es personalizada e inmediata, todos los días del año y sin import
 
 <br>
 
-_Estos son algunos de los servicios que cubrimos, sin embargo podemos agregar muchos más de acuerdo a su presupuesto, si desean contratar nuestros servicios podemos agendar una cita para conversar los precios y personalizar adecuadamente lo que requieran._
+_Estos son algunos de los servicios que cubrimos, sin embargo podemos agregar muchos más de acuerdo a su presupuesto, si desean contratar nuestros servicios podemos agendar una cita para conversar los precios y personalizar adecuadamente el plan._
