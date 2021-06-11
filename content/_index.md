@@ -66,9 +66,7 @@ sections:
       - title: Base de datos
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Base de datos en la blockchain para administrar a sus jugadores, además de registros sin límite de entradas
         content_align: left
         actions:
           - label: Learn More
