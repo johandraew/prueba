@@ -36,7 +36,7 @@ sections:
         content: |-
           ---
 
-          ### $19
+          ### $400 MXN
 
           per month, billed yearly
 
