@@ -50,4 +50,4 @@ La atención es personalizada e inmediata, en caso de requerir una nueva soluci�
 
 **Tienda en línea**, puede ser alojada en la misma página web. Sin embargo ofrecemos pagos en oxxo con costo adcional.
 
-*Cualquier otra aplicación o solución puede tener un costo extra o incluso ser gratuita.
+*Cualquier otra aplicación o solución puede tener un costo extra.
