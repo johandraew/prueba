@@ -24,7 +24,7 @@ params:
       - label: Partidos
         url: /style-guide
         style: link
-      - label: Live
+      - label: Unirse
         url: /style-guide
         style: link
     has_secondary_nav: true
