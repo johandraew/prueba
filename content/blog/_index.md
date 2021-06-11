@@ -20,9 +20,9 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Inline Form
+    title: Subscribete a nuestro boletín informativo
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: 
     content_align: center
     form_position: bottom
     form_layout: inline
