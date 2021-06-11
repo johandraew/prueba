@@ -61,7 +61,7 @@ La atención es personalizada e inmediata, todos los días del año y sin import
 
 ## Servicios adicionales*
 
-**Tienda en línea**, puede ser alojada en la misma página web. Tambien ofrecemos una solucion para recibir pagos en oxxo con costo adcional.
+**Tienda en línea**, puede ser alojada en la misma página web. Tambien ofrecemos una solución para recibir pagos en oxxo con costo adcional.
 
 *Cualquier otra aplicación o solución puede tener un costo extra.
 
