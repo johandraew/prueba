@@ -167,7 +167,7 @@ sections:
     background_color: none
 seo:
   title: Hidalgo Fútbol Club
-  description: 'Hidalgo FC, página oficial.'
+  description: Hidalgo FC página de prueba.
   extra:
     - name: 'og:type'
       value: website
