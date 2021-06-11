@@ -22,7 +22,7 @@ params:
         url: /blog
         style: link
       - label: Partidos
-        url: /style-guide
+        url: /
         style: link
       - label: Club
         url: /style-guide
