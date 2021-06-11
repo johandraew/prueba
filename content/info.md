@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Terms and Conditions
+      value: Hidalgo Fúbol Club preview
       keyName: property
     - name: 'og:description'
       value: This is the terms and conditions page
