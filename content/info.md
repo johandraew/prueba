@@ -32,6 +32,8 @@ Ofrecemos una **página web** responsiva, con protección ante ataques DDOS de h
 
 **Hosting sin límite** y **Ancho de banda ilimitado** sin problema de cargas o saturación que originen _caídas_. 
 
+**Poscicionamiento
+
 ## Base de datos
 
 Nuestra base de datos está alojada en la blockchain, permitiendo emitir constancias, certificados o contratos seguros, además cada jugador y directivo contará con un correo electronico sin ningún costo.
